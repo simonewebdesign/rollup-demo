@@ -1,0 +1,22 @@
+{
+  "name": "rollup-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "source/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonewebdesign/rollup-demo.git"
+  },
+  "keywords": [
+    "rollup"
+  ],
+  "author": "Simone Vittori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonewebdesign/rollup-demo/issues"
+  },
+  "homepage": "https://github.com/simonewebdesign/rollup-demo#readme"
+}
